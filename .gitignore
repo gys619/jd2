@@ -13,6 +13,17 @@ update_task.sh
 passerby-b.boxjs.json
 crontab.list
 
+jd_wabao.py
+
+jd_wabao_help.py
+
+jd_sign_miandan.py
+
+jd_ghwzjd.py
+
+jd_fruit_medalExchange.py
+
+
 jd_mf.js
 jd_jxSign.js
 jd_zhulima.js
